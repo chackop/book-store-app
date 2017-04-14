@@ -12,13 +12,13 @@ The primary functions include a featured books view and search function where yo
 Bootsrap grid classes are also used to make the specific app responsive in all the major breakpoints.
 Please find the following screens of the functions:
 ### Featured view
-(featuredv.PNG)
+![Alt Text](featuredv.PNG)
 
 ### Search by ID catering case sensitivity
-(searchbyid.PNG)
+![Alt Text](searchbyid.PNG)
 
 ### Search by Name catering case sensitivity
-(searchbyname.PNG)
+![Alt Text](searchbyname.PNG)
 
 ## Future Enhancements
 
