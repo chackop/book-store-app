@@ -11,13 +11,13 @@ The json data is read and the corressponding data is iterated through to extract
 The primary functions include a featured books view and search function where you can search by the OLID or by the book title.
 Bootsrap grid classes are also used to make the specific app responsive in all the major breakpoints.
 Please find the following screens of the functions:
-Featured view
+### Featured view
 ![Alt Text](featuredv.PNG)
 
-Search by ID catering case sensitivity
+### Search by ID catering case sensitivity
 ![Alt Text](searchbyid.PNG)
 
-Search by Name catering case sensitivity
+### Search by Name catering case sensitivity
 ![Alt Text](searchbyname.PNG)
 
 ## Future Enhancements
